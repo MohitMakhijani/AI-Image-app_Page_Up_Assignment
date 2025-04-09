@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068606934178",
+    "project_id": "pageup-7eae9",
+    "storage_bucket": "pageup-7eae9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068606934178:android:ecb168d8c9f03081239bfb",
+        "android_client_info": {
+          "package_name": "com.example.page_up_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArDI3xF8FBD3yCnIMC79Da4Iq65AlCCbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
